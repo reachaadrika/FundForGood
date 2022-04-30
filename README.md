@@ -1,4 +1,3 @@
 # FundForGood
 
-
-# Using the potential of Blockchian Technology in the healthcare industry. 
+Using the implementation of Blockchain Technology in Healthcare Industry .
