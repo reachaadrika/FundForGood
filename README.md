@@ -1,5 +1,8 @@
 # FundForGood
 
+
+This project was selected as the Top-5 projects of HackerCamp'22 by Innovaccer powered by Microsoft.
+
 Using the implementation of Blockchain Technology in Healthcare Industry .
 
 # Inspiration ✨
